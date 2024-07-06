@@ -13,3 +13,12 @@
 
 // console.log(+true);
 // console.log(true);
+// const arr = ["name","really"];
+// console.log(typeof arr);
+
+const objectv = {
+    name : "divyanshu",
+    class: 5
+}
+
+console.log(typeof objectv);
